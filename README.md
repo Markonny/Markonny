@@ -1,3 +1,7 @@
+I'm Marko Vasiljević
+Software Engineer & Computer Science Student
+4th year at the Faculty of Electronic Engineering, University of Niš
+
 <h2>Credly Badges</h2>
 
 <p align="left">
