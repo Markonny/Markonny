@@ -1,3 +1,3 @@
 <p align="left">
-  <img src="python-essentials-1.1.png" width="210">
+  <img src="python-essentials-1.1.png" width="120">
 </p>
